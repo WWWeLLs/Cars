@@ -1,0 +1,11 @@
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\bin\Debug\netcoreapp2.1\MazdaCars.deps.json
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\bin\Debug\netcoreapp2.1\MazdaCars.runtimeconfig.json
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\bin\Debug\netcoreapp2.1\MazdaCars.runtimeconfig.dev.json
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\bin\Debug\netcoreapp2.1\MazdaCars.dll
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\bin\Debug\netcoreapp2.1\MazdaCars.pdb
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\obj\Debug\netcoreapp2.1\MazdaCars.csprojAssemblyReference.cache
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\obj\Debug\netcoreapp2.1\MazdaCars.csproj.CoreCompileInputs.cache
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\obj\Debug\netcoreapp2.1\MazdaCars.AssemblyInfoInputs.cache
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\obj\Debug\netcoreapp2.1\MazdaCars.AssemblyInfo.cs
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\obj\Debug\netcoreapp2.1\MazdaCars.dll
+C:\Users\Wennona Wells\source\repos\MazdaCars\MazdaCars\obj\Debug\netcoreapp2.1\MazdaCars.pdb
